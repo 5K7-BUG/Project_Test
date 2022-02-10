@@ -7,5 +7,5 @@ do
 echo "Welcome $num times "
 ((num++))
 done
-
+w
 #
