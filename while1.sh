@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+##
 num=0
 
 while [[ num -le 10 ]]
