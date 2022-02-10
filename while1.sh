@@ -9,3 +9,4 @@ echo "Welcome $num times "
 done
 w
 #
+g
